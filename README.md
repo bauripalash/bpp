@@ -42,7 +42,7 @@ You can download the compressed full list `billion-primes.7z` (50MB) which conta
 ---
 If you list this experiment , consider starring the github project repository or **Dontaing** to motivate me to do more and more cool experiments.
 
-Also Do Follow Me on [[Twitter]](https://twitter.com/bauripalash) | [[Facebook]](https://facebook.com/bauripalash) | [[Instagram]](https://instagram.com/bauripalash) | or even [[GitHub]](https://github.com/bauripalash) to get updates about my work and know me better
+Also Do Follow Me on [[Twitter]](https://twitter.com/bauripalash) || [[Facebook]](https://facebook.com/bauripalash) || [[Instagram]](https://instagram.com/bauripalash) || or even [[GitHub]](https://github.com/bauripalash) to get updates about my work and know me better
 
 --- 
 Donate : [[PayPal]](https://paypal.me/bauripalash) || [[Ko-Fi]](https://ko-fi.com/palash) || [[Buy Me a Coffee]](https://buymeacoffee.com/palash) || [[Paytm]](https://p-y.tm/9V-oX9y)
